@@ -1,0 +1,4 @@
+**__pycache__/
+*.png
+*.toml
+report_template.md
